@@ -5,8 +5,8 @@
 			{
 				"appID": "M7QEXBQQGD.Itr.applinks",
 				"paths": [
-				 "/promo",
-				 "NOT */podcasts/*",
+				 "/raspberrypi",
+				 "NOT /arduino",
 				]
 			}
 		]
