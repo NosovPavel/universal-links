@@ -5,8 +5,8 @@
 			{
 				"appID": "M7QEXBQQGD.Itr.applinks",
 				"paths": [
-				 "/raspberrypi",
-				 "NOT /arduino",
+				 "/raspberrypi/*",
+				 "NOT /arduino/*",
 				]
 			}
 		]
